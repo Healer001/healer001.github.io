@@ -1,0 +1,609 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#header{
+    width: 100%;
+    height: 550px;
+    border: 1px solid #000;
+    background-color: #000;
+}
+#section{
+    width: 1170px;
+    margin:  0 auto;
+}
+.h-h2{
+    font-size: 26px;
+    line-height: 150%;
+    color: #000;
+    padding: 0 0 20px 0;
+    margin: 0 0 40px 0;
+    border-bottom: #e5e5e5 solid 1px;
+    background: none;
+    text-align: center;
+    font-weight: 500;
+    padding-top: 70px;
+}
+h2 span{
+    font-style: italic;
+    margin-right: 12px;
+}
+.box1{
+    font-size: 0;
+}
+.box1-small{
+    width: 262.5px;
+    height: 130px;
+    padding: 0 15px;
+    display: inline-block;
+}
+.sl-1{
+        padding-left: 75px;
+        font-size: 18px;
+        color: #000000;
+        background-repeat: no-repeat;
+        background-position: left 2px;
+        padding-bottom: 6px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+}
+.sl-1{
+    font-weight: 400;
+}
+.sl-1 small{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-size: 65%;
+}
+.box1-small>p{
+    font-size: 14px;
+    line-height: 30px;
+}
+#sec1{
+    background-color: #3D3331;
+}
+#section-1{
+    width: 1170px;
+    margin: 0 auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 60px;
+    padding-bottom: 50px;
+    font-size: 0;
+}
+.h2-1{
+    padding-top: 0px;
+    border-bottom: rgba(255,255,255,0.2) solid 1px;
+    color: white;
+}
+.h2-1 a{
+    color: white;
+    text-decoration: none;
+}
+.h2-1 a:hover{
+    color: #428bca
+}
+.box2-small{
+    display: inline-block;
+    width: 262px;
+    height: 234.141px;
+    padding: 0 13px;
+}
+.box2-small:hover{
+    background-color: rgba(36, 35, 35, 0.884);
+}
+.box2-a{
+    position: relative;
+    height: 187.14px;
+}
+.box2-a img{
+    display: inline-block;
+    width: 262px;
+    height: 187.14px;
+}
+
+.h4{
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    margin: 10px auto;
+}
+.h4 a{
+    text-decoration: none;
+    color: white;
+}
+#sec2{
+    background-image: url(http://www.nalijiaju.com.cn/skin/nalijiaju/style/images/bg-2.gif);
+}
+.section-2{
+    width: 1170px;
+    margin: 0 auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.sec-h a{
+    color: rgba(36, 35, 35, 0.884);
+}
+.h2-2 a{
+    text-decoration: none;
+}
+.box3-small{
+    height: 176px;
+    font-size: 0;
+}
+.box3-div{
+    width: 165px;
+    /* height: 136px; */
+    padding: 0px 15px;
+    display: inline-block;
+    margin-bottom: 40px;
+}
+.box3-box{
+    padding-top: 36px;
+    width: 132px;
+    height: 96px;
+    border: 2px solid #69afde;
+    border-right-color: #1ad280;
+    border-bottom-color: #1ad280;
+    border-radius: 50%;
+    /* transition: all .8s; */
+    display: inline-block;
+    /* color: #777; */
+}
+.box3-box{
+    font-size: 13px;
+    vertical-align: top;
+}
+.box3-box p{
+    text-align: center;
+}
+.p1{
+    padding-bottom: 10px;
+}
+#sec3{
+    background-color: #3D3331;
+}
+.section-3{
+    width: 1170px;
+    margin: 0 auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 50px;
+}
+.sec3-h span,.sec3-h a{
+    color: white;
+}
+.sec3-box{
+    height: 496px;
+    position: relative;
+    overflow: hidden;
+}
+.sec3-borderbox{
+    width: 1170px;
+    height: 426px;
+    border: 1px solid white;
+}
+#sec3_box2{
+    width: 4680px;
+    overflow: hidden;
+    transition: all .5s;
+}
+#sec3_box2 img{
+    width: 1170px;
+    float: left;
+}
+button{
+    background:none;
+    color: white;
+    font-size: 30px;
+    padding: 0 10px;
+    margin: 0 10px;
+    margin-top: 20px;
+    position: absolute;
+}
+#prev{
+    left: 523px;
+}
+#next{
+    right: 523px;
+}
+.section-4{
+    width: 1170px;
+    margin: 0 auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.sec4-bigbox{
+    font-size: 0;
+}
+.sec4-div{
+    width: 254px;
+    height: 254px;
+    /* border: 1px solid #000; */
+    padding-left: 15px;
+    padding-right: 15px;
+    display: inline-block;
+    vertical-align: top;
+}
+.sec4-box{
+    width: 254px;
+    height: 181px;
+}
+.sec4-x{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.sec4-box img{
+    width: 254px;
+    height: 181px;
+}
+.sec4-h4{
+    font-size: 16px;
+    padding: 20px 0 26px 0;
+    margin: 0 auto;
+    font-weight: 500;
+    line-height: 1.5;
+    text-align: center;
+}
+.sec4-h4 a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+.sec4-h4 a:hover{
+    color: #428bca
+}
+.sec4-footer{
+    width: 1170px;
+    height: 68px;
+    margin-bottom: 10px;
+}
+.sec4-fbox{
+    width: 180px;
+    height: 48px;
+    border: 2px solid #000;
+    margin: 0 auto;
+}
+.sec4-fbox div{
+    margin-top: 12px;
+}
+.sec4-fbox a{
+    padding: 12px 30px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #000;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+.sec4-fbox:hover{
+    background-color: #3d3331;;
+}
+.sec4-fbox a:hover{
+    color: white;
+}
+#sec5{
+    width: 100%;
+    background-color: #302b28;
+    background-image: url(http:www.nalijiaju.com.cn/skin/nalijiaju/style/images/about-bg.png);
+    background-repeat: no-repeat;
+    background-position: center 12px;  
+    padding: 60px 0 50px 0;
+}
+.section-5{
+    width: 1170px;
+    height: 170px;
+    margin: 0 auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.sec5-h{
+    font-size: 26px;
+    line-height: 150%;
+    color: #000;
+    padding: 0 0 20px 0;
+    margin: 0 0 40px 0;
+    border-bottom: #e5e5e5 solid 1px;
+    background: none;
+    text-align: center;
+    font-weight: 500;
+}
+.sec5-h span{
+    color: white;
+}
+.sec5-h a{
+    text-decoration: none;
+    color: white;
+}
+.section-5 p{
+    color: rgba(255,255,255,0.70);
+    text-align: left;
+    text-indent: 30px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    line-height: 30px;
+}
+#sec6{
+    width: 100%;
+    padding-top: 60px;
+}
+.section-6{
+    width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+.sec6-h{
+    font-size: 26px;
+    line-height: 150%;
+    color: #000;
+    padding: 0 0 20px 0;
+    margin: 0 0 40px 0;
+    border-bottom: #e5e5e5 solid 1px;
+    background: none;
+    text-align: center;
+    font-weight: 500;
+}
+.sec6-h>a{
+    color: rgba(36, 35, 35, 0.884);
+}
+.sec6-div{
+    width: 555px;
+    height: 224px;
+    display: inline-block;
+    vertical-align: top;
+    padding-bottom: 20px;
+    margin-right: 20px;
+}
+.sec6-box{
+    padding: 0;
+    border-bottom: #e5e5e5 solid 1px;
+    padding-bottom: 20px;
+}
+.sec6-box img{
+    width: 200px;
+    height: 128px;
+}
+.sec6-box div{
+    display: inline-block;
+    width: 321px;
+    vertical-align: top;
+    padding-left: 15px;
+}
+.sec6-smallbox a{
+    text-decoration: none;
+    color: #3d3331;
+}
+.sec6-smallbox a:hover{
+    color: #428bca;
+}
+.sec6-smallbox img{
+    width: 19px;
+    height: 9px;
+}
+.sec6-smallbox p{
+    line-height: 30px;
+    color: #666;
+    font-size: 14px;
+    margin-top: 10px;
+}
+.sec6-span1{
+    width: 22px;
+    height: 18px;
+    background-image: url(http://www.nalijiaju.com.cn/skin/nalijiaju/style/images/ny-news-bg.png);
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+    padding-left: 28px;
+    margin-left: 10px;
+    font-style: italic;
+    font-size: 12px;
+}
+.sec6-span1 a{
+    text-decoration: none;
+    color: #666;
+}
+.sec6-span2{
+    width: 22px;
+    height: 18px;
+    background-image: url(http://www.nalijiaju.com.cn/skin/nalijiaju/style/images/ny-news-bg.png);
+    background-position: 0px -20px;
+    background-repeat: no-repeat;
+    padding-left: 28px;
+    margin-left: 10px;
+    font-style: italic;
+    font-size: 12px;
+}
+.sec6-span3{
+    width: 22px;
+    height: 18px;
+    background-image: url(http://www.nalijiaju.com.cn/skin/nalijiaju/style/images/ny-news-bg.png);
+    background-position: 0px -44px;
+    background-repeat: no-repeat;
+    padding-left: 28px;
+    margin-left: 10px;
+    font-style: italic;
+    font-size: 12px;
+    color: red;
+}
+#sec6-p{
+    margin-top: 10px;
+}
+#sec6-p2{
+    margin-top: 3px;
+}
+/* 底部 */
+.footer{
+    background-image: url(http://www.nalijiaju.com.cn/skin/nalijiaju/style/images/bg-8.png);
+    width: 100%;
+    font-size: 12px;
+    color: #919399;
+    margin-top: 25px;
+}
+.footer-box{
+    width: 1170px;
+    margin: 0 auto;
+    padding: 20px 0px;
+}
+.ft-1{
+    display: inline-block;
+    width: 342px;
+    padding: 10px 23px 10px 0px;
+    vertical-align: top;
+}
+.ft-h3{
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    line-height: 48px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.form-ul li{
+    height: 52px;
+    list-style: none;
+}
+#xm{
+    height: 40px;
+    width: 263px;
+    background-color: #FFF;
+    color: #666;
+    border-width: 0px;
+    margin-bottom: 12px;
+    vertical-align: middle;
+    border-radius: 0px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-image: url(http://www.nalijiaju.com.cn/skin/nalijiaju/style/images/input-bg.png);
+    background-repeat: no-repeat;
+    background-position: right 0px;
+}
+#dh{
+    background-image: url(http://www.nalijiaju.com.cn/skin/nalijiaju/style/images/input-bg.png);
+    background-repeat: no-repeat;
+    background-position: right -40px;
+    height: 40px;
+    width: 263px;
+    background-color: #FFF;
+    color: #666;
+    border-width: 0px;
+    margin-bottom: 12px;
+    vertical-align: middle;
+    border-radius: 0px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#button1 {
+    height: 44px;
+    width: 263px;
+    text-align: center;
+    vertical-align: middle;
+    border-width: 0px;
+    background-color: #302b28;
+    color: #FFF;
+    font-size: 14px;
+    border-radius: 0px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+.ft-2{
+    display: inline-block;
+    width: 44%;
+    padding: 10px 0;
+    vertical-align: top;
+}
+.ft2-box{
+    background-image: url(http://www.nalijiaju.com.cn/skin/nalijiaju/style/images/address-bg.png);
+    background-repeat: no-repeat;
+    background-position: 0px top;
+    padding-left: 30px;
+    height: 112px;
+}
+.ft2-box li{
+    list-style: none;
+    height: 28px;
+}
+.ft-3{
+    float: right;
+    margin-top: 46px;
+    width: 280px;
+    height: 168px;
+    text-align: center;
+    padding: 0;
+    vertical-align: top;
+}
+.ft-3 li{
+    width: 118px;
+    height: 168px;
+    margin-left: 16px;
+    float: right;
+    list-style: none;
+}
+.ft-3 img{
+    width: 118px;
+}
+.ft-4{
+    border-top: 1px solid #333333;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.ft-4 a{
+    text-decoration: none;
+    color: #919399;
+}
+.side{
+    position: fixed;
+    width: 54px;
+    height: 275px;
+    right: 0;
+    bottom: 120px;
+    z-index: 100;
+}
+.side ul li{
+    width: 54px;
+    height: 54px;
+    float: left;
+    position: relative;
+    border-bottom: 1px solid #444444;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.sidebox{
+    width: 54px;
+    opacity: 0.8;
+    background: rgb(0, 0, 0);
+    position: absolute;
+    height: 54px;
+    top: 0px;
+    right: 0px;
+    overflow: hidden;
+}
+.sidebox img{
+    float: left;
+    height: auto;
+    vertical-align: middle;
+    max-width: 100%;
+}
+.sidebox span{
+    line-height: 50px;
+    font-size: 14px;
+    color: white;
+}
+.sidebox:hover{
+    transition:  all .8s;
+    width: 120px;
+    height: 54px;
+    background: red;
+}
+#sidebox:hover{
+    transition:  all .8s;
+    width: 54px;
+    height: 54px;
+    background: red;
+}
